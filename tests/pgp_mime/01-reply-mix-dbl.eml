@@ -1,0 +1,75 @@
+Subject: Testcase 'reply-mix-dbl' (PGP/MIME)
+To: manager@bigcorporation.de
+From: johnny@bigcorporation.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: multipart/encrypted; protocol="application/pgp-encrypted"; boundary="DELIMITER"
+
+--DELIMITER
+Content-Type: application/pgp-encrypted
+
+Version: 1
+
+--DELIMITER
+Content-Type: application/octet-stream; name="encrypted.asc"
+Content-Disposition: inline; filename="encrypted.asc"
+
+-----BEGIN PGP MESSAGE-----
+
+hQEMA+XhBIZl3+i5AQgAlxqe5FeehWwmPY6SDiljkVzTrGqWjGkk8GRktaIfosEb
+NDfA8ewGPdFN/GBhgmo1sNrRqYz0rqetIoHZ8cGvx9+iHUAUT3HIJV2oMPJEphhs
+BPz8ctfFshYDjurJA78kJcEiQKBLS4p/NE473FXhthpJ1OE6VOBIgrIhJUqPNvhm
+oJCeXb5lN6N71ZFlcq8ROL5j2cgDqi++PyYDr0Q9AUZ66Cm1uIhMuIC4lKY5DKxJ
+mLi7CzyIlwJi6ZlR12fGPPDpLf53e/scl3Be9Z64NcO+iWf2PnRNFrRYOapqnA4w
+eZreEZ+UG9Y5bX2aFVc0B4bIChu3sTL8IXetgv+atNLA4QFZkChzDbSlohEWVOTw
+lJUfo99hySSMeBqW6vsAbgzs4vEkAFzEBRMGcsLNSisJ920RZFy53ek1rwpZF/Ux
+gRClH0quVHQOTmXas7w3K6rGNnBcCUSoyqs4v02+pauwUBiLdRihlnnvXlXaMxM3
+NDItUCmpLV+beig3q2zN4p006kRv0jpSorHAIDMaTmZbkJfrMCzgVVaIBmpihvni
+segYIc3zHt13e6BweMsr6uZvf70/Mgv6E8iSM99d34TXeq3Hn6lommYMb0s07OjT
+MnkBvn7RDlRXFX+YEemNxZbL1mEYQAJw9xtuGdITx0UmAtOInVWxis1sXqU9KXLV
+lM1no2hiYWX26Okn4brxRAxboIXVsQNTOWvPzvO6rZHQQQ6QtLby5v8fQwr7RrnK
+zV2190wIchh23Ygi2WDBO6o0WC55vDLeSg8+7ITlD/wefJzF/N0RNxVL2uLBV97m
+bl3s0YlPlD8t8TyInGLWlGEAIacr+kbDg860m1vI/J0qPy3mSR/8yEx55FmEIAe2
+hN6I1LAfBcE78KEWKcDDV705vA==
+=bUyk
+-----END PGP MESSAGE-----
+
+--DELIMITER--
+
+--BOUNDARY
+Content-Type: multipart/encrypted; protocol="application/pgp-encrypted"; boundary="DELIMITER"
+
+--DELIMITER
+Content-Type: application/pgp-encrypted
+
+Version: 1
+
+--DELIMITER
+Content-Type: application/octet-stream; name="encrypted.asc"
+Content-Disposition: inline; filename="encrypted.asc"
+
+-----BEGIN PGP MESSAGE-----
+
+hQEMA+XhBIZl3+i5AQgAmR4Vn4Uht+Os24BQ+GWQjkDCknfElhRxGIJc5hDwqg47
++cgsNHvhzT7EJG8QnS+TOdwNwmAy6eYumWMRyB6DivOzlNw8WL/m0Vn1G/6a3+VQ
+8TvfJERMeKiT+CH+tUOByVbH+TkYKzEk1bZnt1hsXB0hfoPJ43tYJs3w9PBS5Cf5
+3rjF5pq/LmxnHmPG+nVjFHdyaeG1ol9HMwY/TsFBSJZUi+tkjE6ItkEoL3uMpdnB
+LkdPUZbzOWo4sFgP2+2fq3LIeNOssUzsWtpffbhoS99H366+wOR1blZVwK0HP+gc
+xtu0i4rzQ2dfhF4aIBcN2qW43xCYDr3cUVzlcOGmRNLA2wHYtKGEdRJslXDr1sft
+gZ59w9Yge1D4tXKv0gSi42ja93AQcSCy0ySeZqxTiFhZhAk6UpqUEpblXwSUzh49
+FD9a8E3KpI0j1YZUCm8An8sOTxKweMHRom+4SNijkR6pC/9+p/IqySQtA0vd36f7
+Q3659T7gQroriqqeuyJ8KGJpF7ofpulygBNxxRi/FB9kFEZwG9JwZ9s0hg4dwdOQ
+i0h7UsvOOOlMv0RutkiQwK+si7hGNfYCXqazzW3GykGSIQH5pHJkmbZ2D7mlje5O
+SJ4FJDiqEVjGaXTY/2NECdpBq4c6+ReUWoUvgdr1G+1d9Q1S2hLLSrmTakwjSIjX
+er0KKoHXx77QovgbVKlleSUgwd6UM6CFe/KxmagHE1M7Sh+HEVWmnQZ5IXT7SAem
+55N8pneoq1Fz2Qei84A9+xPJOdLJRMfixKeQNQ2N0wHYC1BaLHLehUX4QM/hq8yU
+C5XPJpauO8nrrZbb2A5MXG72cmES8Jz7e8VLSz0O+U2mMg/5mrkn0nAGTQUC257K
+ik6307p7ZClR0OFquA==
+=cLlY
+-----END PGP MESSAGE-----
+
+--DELIMITER--
+
+--BOUNDARY--

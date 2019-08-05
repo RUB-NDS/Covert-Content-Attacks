@@ -1,0 +1,27 @@
+Subject: Testcase 'reply-inl-css' (PGP/INLINE)
+To: manager@bigcorporation.de
+From: johnny@bigcorporation.de
+Content-Type: text/html
+
+<html>
+<head><style>*{color: red !important;}</style></head>
+<body>
+<div style="color: blue !important;"><b>
+THIS IS THE 1ST PART
+<plaintext>
+</body>
+</html>
+
+-----BEGIN PGP MESSAGE-----
+Charset: utf-8
+
+hQEMA+XhBIZl3+i5AQf/d45V53fvG5mSCYGD1Lnr7bEPWSTxdHUn3EzkaZ7cI2UZ
+x2xo8XBTHOu5fu58g40/lF6SFMc5w6mBI3y5mcbmEzrSil6zcpsEx7ouZejYDa3z
+41PZ2zrG0q5Cx3h7t8NQj3oOsLjZTCdOZVBWb9m4Rxr3mlxFhTpMaHxSPLvaRe9a
+SQ2al6W/ATdIxLmF5h7/iptjohjXHz4EhI7W2OrHS+3eLuJpvaDNbS5a4RaQSSFz
+4geOkNVxUeuo4HQ+vVc4h3F+w9x6KKYppirzi+1SgDLKXn8GsiTcFI5sYRkN5Nai
+RaObtRvC0kMCnnaOfRXiMHfelIIkNu5o3xN2vYqwnNJoAcXwOuerlg3sd6tkuh0d
+Br1cxHtO13t6o9Q5b+fR5eJD80CBOQVOeT5KgNmn4kjD/6Otz0DKGLQoGJQNclV9
+Xvjx8m+UaLikHRrAUNLpaJVsx6sudL4ct6BVE2L+TreTaqOamDyHbGI=
+=6DBP
+-----END PGP MESSAGE-----

@@ -1,0 +1,55 @@
+Subject: Testcase 'reply-mix-822' (PGP/MIME)
+To: manager@bigcorporation.de
+From: johnny@bigcorporation.de
+MIME-Version: 1.0
+Content-type: multipart/report; report-type=delivery-status; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/plain
+Content-Description: Notification
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients.
+
+--BOUNDARY
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Subject: Original message
+To: manager@bigcorporation.de
+From: johnny@bigcorporation.de
+MIME-Version: 1.0
+Content-Type: multipart/encrypted; protocol="application/pgp-encrypted"; boundary="DELIMITER"
+
+--DELIMITER
+Content-Type: application/pgp-encrypted
+
+Version: 1
+
+--DELIMITER
+Content-Type: application/octet-stream; name="encrypted.asc"
+Content-Disposition: inline; filename="encrypted.asc"
+
+-----BEGIN PGP MESSAGE-----
+
+hQEMA+XhBIZl3+i5AQgAmR4Vn4Uht+Os24BQ+GWQjkDCknfElhRxGIJc5hDwqg47
++cgsNHvhzT7EJG8QnS+TOdwNwmAy6eYumWMRyB6DivOzlNw8WL/m0Vn1G/6a3+VQ
+8TvfJERMeKiT+CH+tUOByVbH+TkYKzEk1bZnt1hsXB0hfoPJ43tYJs3w9PBS5Cf5
+3rjF5pq/LmxnHmPG+nVjFHdyaeG1ol9HMwY/TsFBSJZUi+tkjE6ItkEoL3uMpdnB
+LkdPUZbzOWo4sFgP2+2fq3LIeNOssUzsWtpffbhoS99H366+wOR1blZVwK0HP+gc
+xtu0i4rzQ2dfhF4aIBcN2qW43xCYDr3cUVzlcOGmRNLA2wHYtKGEdRJslXDr1sft
+gZ59w9Yge1D4tXKv0gSi42ja93AQcSCy0ySeZqxTiFhZhAk6UpqUEpblXwSUzh49
+FD9a8E3KpI0j1YZUCm8An8sOTxKweMHRom+4SNijkR6pC/9+p/IqySQtA0vd36f7
+Q3659T7gQroriqqeuyJ8KGJpF7ofpulygBNxxRi/FB9kFEZwG9JwZ9s0hg4dwdOQ
+i0h7UsvOOOlMv0RutkiQwK+si7hGNfYCXqazzW3GykGSIQH5pHJkmbZ2D7mlje5O
+SJ4FJDiqEVjGaXTY/2NECdpBq4c6+ReUWoUvgdr1G+1d9Q1S2hLLSrmTakwjSIjX
+er0KKoHXx77QovgbVKlleSUgwd6UM6CFe/KxmagHE1M7Sh+HEVWmnQZ5IXT7SAem
+55N8pneoq1Fz2Qei84A9+xPJOdLJRMfixKeQNQ2N0wHYC1BaLHLehUX4QM/hq8yU
+C5XPJpauO8nrrZbb2A5MXG72cmES8Jz7e8VLSz0O+U2mMg/5mrkn0nAGTQUC257K
+ik6307p7ZClR0OFquA==
+=cLlY
+-----END PGP MESSAGE-----
+
+--DELIMITER--
+
+--BOUNDARY--
