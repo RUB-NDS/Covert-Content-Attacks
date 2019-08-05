@@ -1,5 +1,5 @@
 # Re: What's up Johnny?
-Artifacts for the DEF CON talk | Draft paper [here](https://arxiv.org/abs/1904.07550)
+Artifacts for the DEF CON talk | draft paper [here](https://arxiv.org/abs/1904.07550)
 
 ### Abstract
 
@@ -9,12 +9,12 @@ We show practical attacks against OpenPGP and S/MIME encryption and digital sign
 
 * Import the S/MIME and PGP [secret keys](assets/secret-keys) into your email client
 * Before continuing, verify that you can sucessfully decrypt...
-** `tests/pgp_mime/00-original-mail.eml`
-** `tests/smime/00-original-mail.eml`
-** `tests/pgp_inline/00-original-mail.eml`
+  * `tests/pgp_mime/00-original-mail.eml`
+  * `tests/smime/00-original-mail.eml`
+  * `tests/pgp_inline/00-original-mail.eml`
 * Move the .eml file to your inbox (e.g. drag-and-drop in Thunderbird)
 * Do the modified multipart messages in `test/` still decrypt?
-** If so, are they included in reply messages? Can you hide them?
+  * If so, are they included in reply messages? Can you hide them?
 
 ### Evaluation
 ![Evaluation of OpenPGP and S/MIME capable email clients](assets/evaluation.png)
