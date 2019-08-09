@@ -1,6 +1,6 @@
 Subject: Testcase 'reply-mix-822' (PGP/INLINE)
 To: manager@bigcorporation.de
-From: johnny@bigcorporation.de
+From: manager@bigcorporation.de
 MIME-Version: 1.0
 Content-type: multipart/report; report-type=delivery-status; boundary="BOUNDARY"
 
@@ -22,17 +22,19 @@ MIME-Version: 1.0
 Content-Type: text/plain
 
 -----BEGIN PGP MESSAGE-----
-Charset: utf-8
 
-hQEMA+XhBIZl3+i5AQf/d45V53fvG5mSCYGD1Lnr7bEPWSTxdHUn3EzkaZ7cI2UZ
-x2xo8XBTHOu5fu58g40/lF6SFMc5w6mBI3y5mcbmEzrSil6zcpsEx7ouZejYDa3z
-41PZ2zrG0q5Cx3h7t8NQj3oOsLjZTCdOZVBWb9m4Rxr3mlxFhTpMaHxSPLvaRe9a
-SQ2al6W/ATdIxLmF5h7/iptjohjXHz4EhI7W2OrHS+3eLuJpvaDNbS5a4RaQSSFz
-4geOkNVxUeuo4HQ+vVc4h3F+w9x6KKYppirzi+1SgDLKXn8GsiTcFI5sYRkN5Nai
-RaObtRvC0kMCnnaOfRXiMHfelIIkNu5o3xN2vYqwnNJoAcXwOuerlg3sd6tkuh0d
-Br1cxHtO13t6o9Q5b+fR5eJD80CBOQVOeT5KgNmn4kjD/6Otz0DKGLQoGJQNclV9
-Xvjx8m+UaLikHRrAUNLpaJVsx6sudL4ct6BVE2L+TreTaqOamDyHbGI=
-=6DBP
+hQGMA4wi0wL40BQxAQv/d9ahM/ZhpJQ+zZtcmcdf7s66m55GjvnJMREbgbiZj/Ys
+rdYKBPWwO6zXupnL18shcLdPBhMqM6YpBn6eWY8etkE3o7PFMz/p+YX/xrVtP3LR
+upLqgE05aSBZJliHklEZs1Pp4Qt0KS1KG466mcuSudGpur3INCVTPyM9IaUHv97a
+Ey+qkDHj86PSHFhX7NnXKB4JPF/pQihSIgFEwToxHUMHBzbkyQFDHDwgTatXYky6
+FTQRmuaT25RBnsxsjA9HRcK5iMw54rvPDVDA3WV6a9hHSOkovNwNmEMEpJ/4Xo8p
+aivYQ//4IofuUdy/L8qAfKNgZbHVK3JsiD8IDiuf77Ent7SsZpgHlGlMg77zO0JQ
+3kkiadUMLGpoFph2XTeVtDIbxWDLRWpE3ygrULizI5JMR0u/0lD4x1VryNbEDkIx
+XN3G52dCGH0NxytbTW5x9vabg91tHfJQmNp1woNcsEMArzn05pAYlZjkW7o5f0CY
+WZzkgp9bbspgA3udQs370mgBwzcEQWwsEdbtEZCbEXnBOw7YszJ3D8E4h7e3m//R
+xSx3XT+4NGjgfXoXXLOW2/yP/xuj/hxFCWgOQKQK+XEvqwlrvlkxWRkBVS7sLLLi
+52AIydsgyHW9RjBd9BWTWk3ddQlrcRPJ3w==
+=f+yI
 -----END PGP MESSAGE-----
 
 --BOUNDARY--
