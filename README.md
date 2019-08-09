@@ -7,13 +7,13 @@ We show practical attacks against OpenPGP and S/MIME encryption and digital sign
 
 ### Usage
 
-* Import the S/MIME and PGP [secret keys](assets/secret-keys) into your email client
-* Before continuing, verify that you can sucessfully decrypt...
+1. Import the S/MIME and PGP [secret keys](assets/secret-keys) into your email client
+2. Before continuing, verify that you can sucessfully decrypt...
   * `tests/pgp_mime/00-original-mail.eml`
   * `tests/smime/00-original-mail.eml`
   * `tests/pgp_inline/00-original-mail.eml`
-* Move the .eml file to your inbox (e.g. drag-and-drop in Thunderbird)
-* Do the modified multipart messages in `test/` still decrypt?
+3. Move the .eml file to your inbox (e.g. drag-and-drop in Thunderbird)
+4. Do the modified multipart messages in `test/` still decrypt?
   * If so, are they included in reply messages? Can you hide them?
 
 ### Evaluation
