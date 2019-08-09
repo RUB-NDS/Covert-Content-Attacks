@@ -1,0 +1,13 @@
+Subject: Testcase 'css-external'
+To: manager@bigcorporation.de
+From: manager@bigcorporation.de
+Content-Type: text/html
+
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="http://thelorg.org/style.css">
+</head>
+<body>
+  <div class="red">Support for <b>external</b> CSS styles</div>
+</body>
+</html>

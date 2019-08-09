@@ -1,0 +1,23 @@
+Subject: Testcase 'conditional-rules'
+To: manager@bigcorporation.de
+From: manager@bigcorporation.de
+Content-Type: text/html
+
+<html>
+<head>
+  <style>
+  .red {color:red;}
+  @media (min-width:1px) {.media {color:red;}}
+  @supports (color:red) {.supports {color:red;}}
+  @document regexp(".*") {.document {color: red;}}
+  @-moz-document regexp(".*") {.moz-document {color: red;}
+  </style>
+</head>
+<body>
+  <div class="red">Backtest: Support for internal CSS styles</div><hr>
+  <div class="media">Support for @media conditional rules</div><hr>
+  <div class="supports">Support for @supports conditional rules</div><hr>
+  <div class="document">Support for @document conditional rules</div>
+  <div class="moz-document">Support for @-moz-document conditional rules</div>
+</body>
+</html>

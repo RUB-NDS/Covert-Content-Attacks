@@ -1,0 +1,44 @@
+Subject: Testcase 'reply-rel' (PGP/INLINE)
+To: manager@bigcorporation.de
+From: manager@bigcorporation.de
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="BOUNDARY"
+
+--BOUNDARY
+Content-Type: text/html
+
+<html>
+<body>
+
+<div style="color: red;"><b>
+THIS IS THE 1ST PART
+
+<img    width="100"  height="25"  src="cid:target_ppg_inline">
+<embed  width="100%" height="25"  src="cid:target_ppg_inline"/></embed>
+<iframe width="100%" height="25"  src="cid:target_ppg_inline"></iframe>
+<object width="100%" height="25" data="cid:target_ppg_inline"></object>
+
+</body>
+</html>
+
+--BOUNDARY
+Content-ID: <target_pgp_inline>
+Content-Type: text/plain
+
+-----BEGIN PGP MESSAGE-----
+
+hQGMA4wi0wL40BQxAQv/d9ahM/ZhpJQ+zZtcmcdf7s66m55GjvnJMREbgbiZj/Ys
+rdYKBPWwO6zXupnL18shcLdPBhMqM6YpBn6eWY8etkE3o7PFMz/p+YX/xrVtP3LR
+upLqgE05aSBZJliHklEZs1Pp4Qt0KS1KG466mcuSudGpur3INCVTPyM9IaUHv97a
+Ey+qkDHj86PSHFhX7NnXKB4JPF/pQihSIgFEwToxHUMHBzbkyQFDHDwgTatXYky6
+FTQRmuaT25RBnsxsjA9HRcK5iMw54rvPDVDA3WV6a9hHSOkovNwNmEMEpJ/4Xo8p
+aivYQ//4IofuUdy/L8qAfKNgZbHVK3JsiD8IDiuf77Ent7SsZpgHlGlMg77zO0JQ
+3kkiadUMLGpoFph2XTeVtDIbxWDLRWpE3ygrULizI5JMR0u/0lD4x1VryNbEDkIx
+XN3G52dCGH0NxytbTW5x9vabg91tHfJQmNp1woNcsEMArzn05pAYlZjkW7o5f0CY
+WZzkgp9bbspgA3udQs370mgBwzcEQWwsEdbtEZCbEXnBOw7YszJ3D8E4h7e3m//R
+xSx3XT+4NGjgfXoXXLOW2/yP/xuj/hxFCWgOQKQK+XEvqwlrvlkxWRkBVS7sLLLi
+52AIydsgyHW9RjBd9BWTWk3ddQlrcRPJ3w==
+=f+yI
+-----END PGP MESSAGE-----
+
+--BOUNDARY--
