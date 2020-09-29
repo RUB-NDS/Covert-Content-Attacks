@@ -1,0 +1,22 @@
+Subject: Testcase 'conditional-rules-modfied-gmail'
+To: manager@bigcorporation.de
+From: manager@bigcorporation.de
+Content-Type: text/html
+
+<html>
+  <head>
+    <style>
+    .red {color:red;}
+
+      @media screen {
+        .media {
+          color:red;
+        }
+      }
+    </style>
+  </head>
+  <body>
+  <div class="red">Backtest: Support for internal CSS styles</div><hr>
+  <div class="media">Support for @media conditional rules</div><hr>
+  </body>
+</html>

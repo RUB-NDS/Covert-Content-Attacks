@@ -1,0 +1,26 @@
+Subject: Testcase 'blinding-test-color-modified'
+To: manager@bigcorporation.de
+From: manager@bigcorporation.de
+Content-Type: text/html
+
+<html>
+<head>
+  <style>
+  .color {color: transparent;}
+  .white {color: white;}
+  </style>
+</head>
+<body>
+  <fieldset>
+  <legend>CSS internal style</legend>
+  <div class="color">No Support for <b>color</b> propery (transparent)</div>
+ <div class="white">No Support for <b>color</b> propery (white)</div>
+  </fieldset>
+  <fieldset>
+  <legend>CSS inline styles</legend>
+  <div style="color: transparent;">No Support for <b>color</b> propery (transparent)</div>
+  <div style="color: white;">No Support for <b>color</b> propery (white)</div>
+  </fieldset>
+
+</body>
+</html>

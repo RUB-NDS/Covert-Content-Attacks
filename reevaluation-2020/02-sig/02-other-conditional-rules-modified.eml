@@ -1,0 +1,19 @@
+Subject: Testcase 'other-conditional-rules-modified'
+To: manager@bigcorporation.de
+From: manager@bigcorporation.de
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html><head>
+<style>
+    u + .body .gmail{display:block !important;}
+    u + .body .nogmail{display:none!important;}
+</style>
+</head>
+<body class="body">
+  <div class="gmail" style="display:none;">
+    Conent <b>only</b> visible in Gmail webmail</div>
+  
+  <div class="nogmail"> 
+  Content <b>hidden</b> from Gmail webmail and visible in any other E-Mail-Client.</div>
+</html>
